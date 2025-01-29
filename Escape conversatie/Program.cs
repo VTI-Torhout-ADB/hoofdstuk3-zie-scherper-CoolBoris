@@ -7,7 +7,7 @@
             string personage1 = "Alice";
             string personage2 = "Bob";
 
-            string dialoog = $"Alice: \"Hoe gaat het met je?\"\r\n    Bob: \"Goed, dank je! Hoe gaat het met jou?\"\r\nAlice: \"Ook goed, bedankt dat je het vraagt.\"";
+            string dialoog = $"Alice: \"Hoe gaat het met je?\"\r\nBob: \"Goed, dank je! Hoe gaat het met jou?\"\r\nAlice: \"Ook goed, bedankt dat je het vraagt.\"";
 
             Console.WriteLine(dialoog);
         }
